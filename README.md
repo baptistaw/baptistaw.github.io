@@ -11,8 +11,7 @@ Ver online: https://baptistaw.github.io/
 - [Litotricia láser del riñón](https://baptistaw.github.io/litotricia-laser-3d/)
 - [Enucleación de próstata con láser (HoLEP)](https://baptistaw.github.io/prostata-holep-3d/)
 - [Biopsia de próstata por fusión](https://baptistaw.github.io/biopsia-fusion-3d/) · [resultados del equipo](https://baptistaw.github.io/biopsia-fusion-3d/resultados/)
-
-En preparación: ureteroscopía semirrígida, doble J de urgencia, resección de tumor de vejiga, cálculo de vejiga, resección y vaporización de próstata, uretrotomía interna y dilatación con balón con medicamento.
+- [Endourología 3D](https://baptistaw.github.io/endourologia-3d/): ureteroscopía semirrígida, doble J de urgencia, resección de tumor de vejiga, cálculo de vejiga, resección y vaporización de próstata, uretrotomía interna y dilatación con balón con medicamento.
 
 ## Créditos
 
